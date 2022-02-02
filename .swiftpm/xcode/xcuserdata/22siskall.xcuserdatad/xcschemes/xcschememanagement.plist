@@ -27,6 +27,11 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>BetterMinecraft</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>Minecraft2.0</key>
 		<dict>
 			<key>primary</key>
