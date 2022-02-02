@@ -1,7 +1,6 @@
 import Subsonic
 import SwiftUI
 
-// lol ur mom
 struct ContentView: View {
     let names = ["1", "2", "3"]
     let column = [
