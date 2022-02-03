@@ -12,7 +12,7 @@ struct ContentView: View {
                 LazyVGrid(columns: column){
                     ForEach(names, id: \.self){ name in
                         Button{
-                            play(sound: "FullSizeRender.MOV.mp3")
+                            play(sound: "\(name).mp3")
                             print("\(name) was tapped")
                         } label: {
                             Image(name)
